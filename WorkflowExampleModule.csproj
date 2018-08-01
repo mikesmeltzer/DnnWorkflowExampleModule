@@ -154,6 +154,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="Edit.ascx" />
     <Content Include="License.txt" />
     <Content Include="module.css" />
